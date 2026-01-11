@@ -3,6 +3,7 @@
 A modern, lightweight, and highly customizable autoclicker application built with Python. Echo Clicker provides precise control over mouse clicking automation with an intuitive dark-themed GUI.
 
 ![Echo Clicker Interface](images/image1.png)
+![Echo Clicker Interface](images/image2.png)
 
 ## Features
 
@@ -10,7 +11,6 @@ A modern, lightweight, and highly customizable autoclicker application built wit
 
 A modern, lightweight, and highly customizable autoclicker application built with Python. Echo Clicker provides precise control over mouse clicking automation with an intuitive dark-themed GUI.
 
-![Echo Clicker Interface](images/image1.png)
 
 ## Features
 
