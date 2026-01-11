@@ -62,10 +62,6 @@ A modern, lightweight, and highly customizable autoclicker application built wit
 - **Auto-Save**: All settings are automatically saved and restored on startup
 - **Configuration Management**: JSON-based settings file for reliable persistence
 
-![Echo Clicker Options](images/image2.png)
-
-![Echo Clicker Options](images/image2.png)
-
 ## Installation
 
 ### Prerequisites
@@ -105,18 +101,6 @@ A pre-built executable (`EchoClicker.exe`) is available in the root directory fo
 - **Libraries**: Built with CustomTkinter for UI, Pynput for input control
 - **Threading**: Separate threads for GUI and clicking operations
 - **Cross-Platform**: Works on Windows, macOS, and Linux
-
-## Safety & Ethics
-
-Echo Clicker is designed for legitimate automation tasks. Please use responsibly and in accordance with the terms of service of applications you automate. The developers are not responsible for misuse.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the terms specified in the LICENSE file.
 
 ## Credits
 
