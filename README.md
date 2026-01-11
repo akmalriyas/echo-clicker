@@ -2,15 +2,12 @@
 
 A modern, lightweight, and highly customizable autoclicker application built with Python. Echo Clicker provides precise control over mouse clicking automation with an intuitive dark-themed GUI.
 
-![Echo Clicker Interface](images/image1.png)
-![Echo Clicker Interface](images/image2.png)
-
-## Features
-
-# Echo Clicker
-
-A modern, lightweight, and highly customizable autoclicker application built with Python. Echo Clicker provides precise control over mouse clicking automation with an intuitive dark-themed GUI.
-
+<table>
+  <tr>
+    <td><img src="images/image1.png" alt="Echo Clicker Interface" width="400"/></td>
+    <td><img src="images/image2.png" alt="Echo Clicker Options" width="400"/></td>
+  </tr>
+</table>
 
 ## Features
 
@@ -62,7 +59,9 @@ A modern, lightweight, and highly customizable autoclicker application built wit
 - **Auto-Save**: All settings are automatically saved and restored on startup
 - **Configuration Management**: JSON-based settings file for reliable persistence
 
-## Installation
+## Run via Python
+<details>
+<summary>Python setup and installation</summary>
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -79,11 +78,20 @@ A modern, lightweight, and highly customizable autoclicker application built wit
    ```bash
    python main.py
    ```
+</details>
 
-### Standalone Executable
+## Run via Executable
+<details>
+<summary>Standalone executable (Windows)</summary>
+
 A pre-built executable (`EchoClicker.exe`) is available in the root directory for Windows users who prefer not to install Python.
 
+Simply download and run the executable - no additional setup required!
+</details>
+
 ## Usage
+<details>
+<summary>How to use Echo Clicker</summary>
 
 1. **Launch the Application**: Run `main.py` or the executable
 2. **Configure Settings**:
@@ -94,13 +102,17 @@ A pre-built executable (`EchoClicker.exe`) is available in the root directory fo
 3. **Set Hotkey**: Change the start/stop hotkey in the OPTIONS tab if desired
 4. **Start Clicking**: Use the START button or press your configured hotkey
 5. **Stop**: Click STOP or press the hotkey again
+</details>
 
 ## Technical Details
+<details>
+<summary>System architecture and libraries</summary>
 
 - **Backend**: Multi-threaded clicking engine for smooth performance
 - **Libraries**: Built with CustomTkinter for UI, Pynput for input control
 - **Threading**: Separate threads for GUI and clicking operations
 - **Cross-Platform**: Works on Windows, macOS, and Linux
+</details>
 
 ## Credits
 
