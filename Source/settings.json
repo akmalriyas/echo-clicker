@@ -1,0 +1,17 @@
+{
+    "h": "0",
+    "m": "0",
+    "s": "0",
+    "ms": "100",
+    "btn": "Left",
+    "type": "Single",
+    "pos_mode": "Current",
+    "x": "1461",
+    "y": "923",
+    "hotkey_char": "f6",
+    "random_enabled": false,
+    "random_amt": "0",
+    "repeat_mode": "Infinite",
+    "repeat_count": "3",
+    "on_top": false
+}
